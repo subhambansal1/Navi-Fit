@@ -69,7 +69,9 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/subhambansal33/navi-fit.git
+git clone https://github.com/subhambansal1/Navi-Fit.git
+
+
 
 # Navigate into the project folder
 cd navi-fit
