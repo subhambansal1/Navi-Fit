@@ -45,10 +45,6 @@ Icons & Animations: Ionicons, react-native-circular-progress
 
 Styling: StyleSheet API with support for light/dark themes
 
-🤝 Collaborators
-Name	GitHub	Email
-Subham Bansal	@subhambansal33	subhambansal33@gmail.com
-
 📚 What I Learned
 Building a fully functional multi-screen app using Expo
 
