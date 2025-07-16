@@ -5,15 +5,16 @@ A smart and clean fitness app to help you track steps, workouts, water intake & 
 📸 Screenshots
 Home Page	Water Tracker	Step Tracker
 Home	
-![IMG-20250716-WA0004](https://github.com/user-attachments/assets/bbeb0f0e-a949-4177-b716-a312ff26ab6a)
-![IMG-20250716-WA0009](https://github.com/user-attachments/assets/86a7053c-71e9-49b4-bab7-4a4f498598b9)
-![IMG-20250716-WA0008](https://github.com/user-attachments/assets/f06d80c0-0ee0-405c-b5db-9f6c3448e714)
-![IMG-20250716-WA0007](https://github.com/user-attachments/assets/c361cfcd-8977-49c7-926c-c0982363f4ec)
-![IMG-20250716-WA0011](https://github.com/user-attachments/assets/0d795b6d-b93d-4e2c-b13a-985cfee5e8b8)
-![IMG-20250716-WA0010](https://github.com/user-attachments/assets/9495fb7b-e2dc-4685-aad5-da58a662b177)
-![IMG-20250716-WA0012](https://github.com/user-attachments/assets/1992f933-56ed-4ecb-a11f-488ec226936b)
-![IMG-20250716-WA0006](https://github.com/user-attachments/assets/bcdecd0f-b108-42a7-ab50-eff66ef7f9e6)
-![IMG-20250716-WA0005](https://github.com/user-attachments/assets/2c001589-b2af-477f-b400-70a1dd75153d)
+![IMG-20250716-WA0012](https://github.com/user-attachments/assets/1e76f6f0-de73-4594-aa73-413359fffd8f)
+![IMG-20250716-WA0011](https://github.com/user-attachments/assets/925bcbfa-8215-467b-933a-fd023964dfcf)
+![IMG-20250716-WA0010](https://github.com/user-attachments/assets/9531077d-bb3a-493c-8718-6c7a4ae12013)
+![IMG-20250716-WA0009](https://github.com/user-attachments/assets/7a02b501-76cc-447d-930d-7855071bb620)
+![IMG-20250716-WA0007](https://github.com/user-attachments/assets/6b56931d-870e-40fa-aafa-713f6ab7b976)
+![IMG-20250716-WA0008](https://github.com/user-attachments/assets/e2065372-1c3c-4628-83ab-8a9eec4964fe)
+![IMG-20250716-WA0006](https://github.com/user-attachments/assets/3c07fb35-2e27-4597-8b5b-53034e05ba17)
+![IMG-20250716-WA0004](https://github.com/user-attachments/assets/abf8501e-7ceb-4067-9b7b-10f3b7d34a89)
+![IMG-20250716-WA0005](https://github.com/user-attachments/assets/eae17200-a625-492d-814d-be669afac87f)
+
 
 
 ✨ Purpose of the App
